@@ -1,6 +1,6 @@
 # cgpaCal
-##A simple Gpa calculator made using c++.
-###How to use it:
+## A simple Gpa calculator made using c++.
+### How to use it:
 - Add subject name.
 - Add credit of the subject.
 - Add marks obtained out of 100.
