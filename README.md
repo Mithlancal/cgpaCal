@@ -6,5 +6,6 @@
 - Add marks obtained out of 100.
 - Now, u will be asked to add another subjec, add until done.
 - fnally press n and enter.
+- It gives output with proper formatting :>.
 # license:
 - mit
